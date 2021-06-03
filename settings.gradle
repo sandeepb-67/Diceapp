@@ -1,0 +1,2 @@
+rootProject.name = "Diceapp"
+include ':app'
